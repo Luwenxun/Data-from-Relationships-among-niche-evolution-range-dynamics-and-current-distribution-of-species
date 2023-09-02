@@ -29,5 +29,5 @@ These are the filtered datasets used in the analyses of the paper entitled "Echo
 DATA & FILE OVERVIEW
 
 Data List: 
-Folder 1 Name: R_scripts
+Folder 1 Name: R_scripts;
 Folder 1 Description: R_scripts were used in this study.
