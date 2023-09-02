@@ -24,10 +24,10 @@ Email: rao@pku.edu.cn
 
 SHARING/ACCESS INFORMATION
 
-These are the filtered datasets used in the analyses of the paper entitled "Relationships among niche evolution, range dynamics and current distribution of species: evidence from a study on eco-evolutionary processes of the Chrysanthemum zawadskii species complex" by Lu et al. Please cite the paper when reusing these data.
+These are the filtered datasets used in the analyses of the paper entitled "Echoes of the past: niche evolution, range dynamics, and their coupling shape the distribution of species in the Chrysanthemum zawadskii species complex" by Lu et al. Please cite the paper when reusing these data.
 
 DATA & FILE OVERVIEW
 
-1. Data List: 
-  File 1 Name: GPS coordinates of localities of species within the Chrysanthemum zawadskii species complex in China
-	File 1 Description: GPS coordinates of localities of species used in this study
+Data List: 
+Folder 1 Name: R_scripts
+Folder 1 Description: R_scripts were used in this study.
